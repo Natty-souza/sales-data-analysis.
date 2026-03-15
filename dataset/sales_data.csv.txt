@@ -1,0 +1,5 @@
+date,product,region,sales
+2025-01-10,Laptop,North,1200
+2025-01-11,Phone,South,800
+2025-01-12,Tablet,East,600
+2025-01-13,Laptop,West,1400
