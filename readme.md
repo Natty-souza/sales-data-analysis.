@@ -21,7 +21,7 @@ The data is used to perform aggregation and visualization in the dashboard.
 - Sales data analysis
 - Aggregation by region
 - Dashboard visualization
-- 
+  
 - ## Data Pipeline
 
 1. Data stored in CSV file
