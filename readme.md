@@ -32,3 +32,12 @@ The data is used to perform aggregation and visualization in the dashboard.
 ## Dashboard
 
 ![Dashboard](dashboard.png)
+
+## Objective
+
+The goal of this project is to demonstrate skills in:
+
+- Data analysis
+- SQL queries
+- Data visualization
+- Dashboard development
