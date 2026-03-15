@@ -21,13 +21,14 @@ The data is used to perform aggregation and visualization in the dashboard.
 - Sales data analysis
 - Aggregation by region
 - Dashboard visualization
-- ## Dashboard
-
+- 
 - ## Data Pipeline
 
 1. Data stored in CSV file
 2. Data processing using Python and Pandas
 3. SQL used for data aggregation
 4. Power BI used to create the dashboard
+
+## Dashboard
 
 ![Dashboard](dashboard.png)
