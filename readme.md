@@ -12,3 +12,6 @@ Project for analyzing sales data using Python, SQL and Power BI.
 - Sales data analysis
 - Aggregation by region
 - Dashboard visualization
+- ## Dashboard
+
+![Dashboard](dashboard.png)
